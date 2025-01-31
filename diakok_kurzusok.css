@@ -1,0 +1,12 @@
+body { 
+    font-family: Arial, sans-serif; 
+}
+
+.container { 
+    width: 80%; 
+    margin: auto; 
+}
+
+button { 
+    margin: 5px; 
+}
